@@ -546,7 +546,7 @@
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.33",
     "mongodb": "^3.6.6",
-    "mongoose": "^5.12.6",
+    "mongoose": "^5.12.14",
     "morgan": "^1.10.0",
     "mqtt": "^4.2.6",
     "ms": "^2.1.3",
