@@ -652,7 +652,7 @@
     "pretty-error": "^3.0.3",
     "pretty-ms": "^7.0.1",
     "prettyjson": "^1.2.1",
-    "prismjs": "^1.23.0",
+    "prismjs": "^1.25.0",
     "process": "^0.11.10",
     "progress": "^2.0.3",
     "progress-bar-webpack-plugin": "^2.1.0",
